@@ -1,2 +1,2 @@
-# CS Projects
-This repository contains my journey learning C#
+# C# Projects
+This repository contains my journey learning C#.

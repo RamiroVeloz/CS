@@ -1,0 +1,14 @@
+C:\Users\Limbo\Documents\CS\FirstSteps\bin\Debug\net8.0\FirstSteps.exe
+C:\Users\Limbo\Documents\CS\FirstSteps\bin\Debug\net8.0\FirstSteps.deps.json
+C:\Users\Limbo\Documents\CS\FirstSteps\bin\Debug\net8.0\FirstSteps.runtimeconfig.json
+C:\Users\Limbo\Documents\CS\FirstSteps\bin\Debug\net8.0\FirstSteps.dll
+C:\Users\Limbo\Documents\CS\FirstSteps\bin\Debug\net8.0\FirstSteps.pdb
+C:\Users\Limbo\Documents\CS\FirstSteps\obj\Debug\net8.0\FirstSteps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Limbo\Documents\CS\FirstSteps\obj\Debug\net8.0\FirstSteps.AssemblyInfoInputs.cache
+C:\Users\Limbo\Documents\CS\FirstSteps\obj\Debug\net8.0\FirstSteps.AssemblyInfo.cs
+C:\Users\Limbo\Documents\CS\FirstSteps\obj\Debug\net8.0\FirstSteps.csproj.CoreCompileInputs.cache
+C:\Users\Limbo\Documents\CS\FirstSteps\obj\Debug\net8.0\FirstSteps.dll
+C:\Users\Limbo\Documents\CS\FirstSteps\obj\Debug\net8.0\refint\FirstSteps.dll
+C:\Users\Limbo\Documents\CS\FirstSteps\obj\Debug\net8.0\FirstSteps.pdb
+C:\Users\Limbo\Documents\CS\FirstSteps\obj\Debug\net8.0\FirstSteps.genruntimeconfig.cache
+C:\Users\Limbo\Documents\CS\FirstSteps\obj\Debug\net8.0\ref\FirstSteps.dll
